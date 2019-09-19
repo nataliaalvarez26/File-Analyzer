@@ -11,8 +11,7 @@ import java.util.List;
 import java.util.Collections;
 
 /**
- * Natalia Alvarez cssc0847
- * Jennie Sprague cssc0837
+ * Natalia Alvarez
  */
 
 public class App {
